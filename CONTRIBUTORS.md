@@ -13,6 +13,7 @@
 - [deadSnowman](https://github.com/deadSnowman)
 - [danstewart](https://github.com/danstewart)
 - [ElkeBxl](https://github.com/elkebxl)
+- [arsalanArshad](https://github.com/nonstuff)
 
 ## 2018
 
